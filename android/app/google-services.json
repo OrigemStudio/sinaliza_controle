@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "855100586868",
+    "firebase_url": "https://sinaliza-compras-ab8d2.firebaseio.com",
+    "project_id": "sinaliza-compras-ab8d2",
+    "storage_bucket": "sinaliza-compras-ab8d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855100586868:android:bf67ef2cd332d0b8",
+        "android_client_info": {
+          "package_name": "com.origemstudio.sinaliza_compras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855100586868-ttag4ff4n798i5u8o24geoslcm4e6th6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn0xNUZzwQK4HbF6_gw2kh89dS2v9PhGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855100586868-ttag4ff4n798i5u8o24geoslcm4e6th6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855100586868:android:27c91b9aa757ffff760a21",
+        "android_client_info": {
+          "package_name": "com.origemstudio.sinaliza_controle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855100586868-ttag4ff4n798i5u8o24geoslcm4e6th6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn0xNUZzwQK4HbF6_gw2kh89dS2v9PhGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855100586868-ttag4ff4n798i5u8o24geoslcm4e6th6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
